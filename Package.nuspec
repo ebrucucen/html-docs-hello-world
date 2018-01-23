@@ -13,9 +13,9 @@
   </metadata>
    <files>
     <file src="index.html" target="." />
-    <file src="css/" target="css"/>
-    <file src="fonts/" target="fonts"/>
-    <file src="img/" target= "img"/>
-    <file src="js/" target="js"/>
+    <file src="css/" target="."/>
+    <file src="fonts/" target="."/>
+    <file src="img/" target= "."/>
+    <file src="js/" target="."/>
     </files>
 </package>
