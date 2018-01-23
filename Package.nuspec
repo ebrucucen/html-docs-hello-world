@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
+    <id>MyApp</id>
     <version>1.0.0</version>
-    <authors>root</authors>
+    <authors>Ebru</authors>
     <owners>root</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Package description</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>MyApp description</description>
+    <releaseNotes>MyApp release of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2018</copyright>
-    <tags>Demo PSSouthampton</tags>
+    <tags>Southampton Demo</tags>
   </metadata>
-   <files>
+  <files>
     <file src="index.html" target="." />
-    <file src="css/" target="."/>
-    <file src="fonts/" target="."/>
-    <file src="img/" target= "."/>
-    <file src="js/" target="."/>
-    </files>
+    <file src="css/" target="." />
+    <file src="fonts/" target="." />
+    <file src="img/" target="." />
+    <file src="js/" target="." />
+  </files>
 </package>
