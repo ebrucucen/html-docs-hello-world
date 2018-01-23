@@ -4,7 +4,7 @@
     <id>MyApp</id>
     <version>1.0.0</version>
     <authors>Ebru</authors>
-    <owners>root</owners>
+    <owners>Ebru</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>MyApp description</description>
     <releaseNotes>MyApp release of changes made in this release of the package.</releaseNotes>
