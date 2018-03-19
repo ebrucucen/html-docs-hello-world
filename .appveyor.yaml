@@ -15,4 +15,4 @@ deploy:
     appveyor_repo_tag: true        # deploy on tag push only
 
 build_script:
-      nuget pack Package.nuspec
+  - nuget pack Package.nuspec
