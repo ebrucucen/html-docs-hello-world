@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>MyApp</id>
+    <id>WinesWebApp</id>
     <version>1.0.0</version>
     <authors>Ebru</authors>
     <owners>Ebru</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>MyApp description</description>
-    <releaseNotes>MyApp release of changes made in this release of the package.</releaseNotes>
+    <description>WinesWebApp to descibe wines</description>
+    <releaseNotes>Release Notes.</releaseNotes>
     <copyright>Copyright 2018</copyright>
-    <tags>Southampton Demo</tags>
+    <tags>UK Cloud Infra Demo</tags>
   </metadata>
   <files>
     <file src="index.html" target="." />
