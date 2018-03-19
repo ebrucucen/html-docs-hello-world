@@ -1,4 +1,5 @@
-build: off 
+# we want disable the MSBuild
+build: off
 
 deploy:
   release: WinesWebApp-v$(appveyor_build_version)
@@ -13,5 +14,5 @@ deploy:
     branch: master                 # release from master branch only
     appveyor_repo_tag: true        # deploy on tag push only
 
-test_script: 
+build_script:
       nuget pack Package.nuspec
